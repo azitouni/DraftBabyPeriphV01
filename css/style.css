@@ -1,0 +1,68 @@
+
+.logo {
+   display: inline-block;
+	 height: 150px;
+ }
+#mainNav{
+	height: 260px;
+	background-color: rgb(140, 245, 238);
+}
+.navbar-right {
+    margin-right: 0px;
+}
+.logoFooter {
+   display: inline-block;
+	 height: 20px;
+   text-align: center;
+ }
+.footerStyle{
+     background-color: rgb(140, 245, 238);
+     height: 55px;
+     margin-top: 40px;
+     padding-top: 15px;
+}
+.lien a:hover{
+color: #523f6c;
+}
+
+.flexslider{
+  padding-top: 500px;
+  text-align: center;
+  background-color: #e9edb4;
+}
+.flex-caption {
+  width: 100%;
+  padding: 2%;
+  left: 0;
+  bottom: 0;
+  background: rgba(0,0,0,.5);
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0,0,0,.3);
+  font-size: 14px;
+  line-height: 18px;
+}
+.flex-caption a{
+	color: #fff;
+}
+.fond1{
+	/*background-color: #FFCDD8;*/
+	background-color: #A3E6FD;
+}
+.diapo{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.bordure1{
+  background: #5ECDF2;
+  border: none;
+  border-radius: 40px 10px;
+  margin-left: 75px;
+  margin-top: 100Px;
+  margin-bottom: 100px;
+  }
+.bordure2{
+	/*margin-top: 100px;*/
+	margin-left: 30px;
+	margin-right: 150px;
+
+}
